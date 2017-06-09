@@ -6,7 +6,7 @@ Script to backup XenMobile 10 configuration: Server Properties, Client Propertie
   * Server properties
   * Client properties
   * App Container properties for Web apps and Public Store apps
-  * App Container properties for MDX/Enterprise apps **with*:
+  * App Container properties for MDX/Enterprise apps **with**:
     * iOS policies
     * Android policies
 * Running in Interactive Mode
